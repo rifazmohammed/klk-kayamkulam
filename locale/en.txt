@@ -1,0 +1,65 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Shankar Memorial National Cartoon Museum and Art Gallery
+
+## Skin
+
+### Multiline Text
+HTMLText_CEC04DF3_E7BA_9D44_41A4_9092FAF126F2.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;font-family:'Times Roman';">{{title}}</SPAN></SPAN></DIV></div>
+HTMLText_CEC04DF3_E7BA_9D44_41A4_9092FAF126F2_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:10px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10px;font-family:'Times Roman';">{{title}}</SPAN></SPAN></DIV></div>
+
+### Tooltip
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+
+## Media
+
+### Title
+panorama_30E409DF_3FD8_2BDE_41C7_A1A186E11C48.label = Shankar Memorial National Cartoon Museum & Art Gallery-Kayamkulam
+panorama_30E5E96F_3FD7_E8FE_41B5_8401256097EB.label = Shankar Memorial National Cartoon Museum & Art Gallery-Kayamkulam
+panorama_30E60547_3FD8_F82E_41CA_D361766CC946.label = Shankar Memorial National Cartoon Museum & Art Gallery-Kayamkulam
+panorama_30E60C99_3FD8_2822_41C3_6494EC1054DF.label = Shankar Memorial National Cartoon Museum & Art Gallery-Kayamkulam
+panorama_30E60F00_3FD8_2822_41C7_433943066028.label = Shankar Memorial National Cartoon Museum & Art Gallery-Kayamkulam
+panorama_30E61184_3FD8_1822_41B2_8D92699EAEE9.label = Shankar Memorial National Cartoon Museum & Art Gallery-Kayamkulam
+panorama_30E61AA8_3FD8_2862_41C9_6D76A4966C78.label = Shankar Memorial National Cartoon Museum & Art Gallery-Kayamkulam
+panorama_30E622B0_3FD8_1862_41CE_CBD419DECA80.label = Shankar Memorial National Cartoon Museum & Art Gallery-Kayamkulam
+panorama_30E62481_3FD8_7822_41CE_3D3501E8AD2B.label = Shankar Memorial National Cartoon Museum & Art Gallery-Kayamkulam
+panorama_30E62849_3FD8_E822_41CF_F2B0311AD2B3.label = Shankar Memorial National Cartoon Museum & Art Gallery-Kayamkulam
+panorama_30E6379D_3FD8_1822_41B8_087A95ED42BE.label = Shankar Memorial National Cartoon Museum & Art Gallery-Kayamkulam
+panorama_30E63B5D_3FD8_2822_41C7_2535D09A28D3.label = Shankar Memorial National Cartoon Museum & Art Gallery-Kayamkulam
+panorama_30E63F66_3FD8_28EE_41CC_2645FE199A93.label = Shankar Memorial National Cartoon Museum & Art Gallery-Kayamkulam
+panorama_30E64C5A_3FD7_E826_41AE_E56B2CBE373E.label = Shankar Memorial National Cartoon Museum & Art Gallery-Kayamkulam
+panorama_30E64DE6_3FD8_2BEE_41BB_2E2CCF56D592.label = Shankar Memorial National Cartoon Museum & Art Gallery-Kayamkulam
+panorama_30E6508A_3FD8_7826_41CD_EB225F987F5A.label = Shankar Memorial National Cartoon Museum & Art Gallery-Kayamkulam
+panorama_30E65E58_3FD8_2822_41C7_6385112A846A.label = Shankar Memorial National Cartoon Museum & Art Gallery-Kayamkulam
+panorama_30E67103_3FD8_3826_41C3_EF556661C1E5.label = Shankar Memorial National Cartoon Museum & Art Gallery-Kayamkulam
+panorama_30E6D22B_3FD8_1866_41C8_8F76E06F6827.label = Shankar Memorial National Cartoon Museum & Art Gallery-Kayamkulam
+panorama_30E6D5BA_3FD8_7866_41B3_8AFEFD4ED200.label = Shankar Memorial National Cartoon Museum & Art Gallery-Kayamkulam
+panorama_30E6D8D6_3FD8_682E_4197_E367B7057796.label = Shankar Memorial National Cartoon Museum & Art Gallery-Kayamkulam
+panorama_30E6DBE4_3FD8_2FE2_41CC_9A44AAEB3AB6.label = Shankar Memorial National Cartoon Museum & Art Gallery-Kayamkulam
+panorama_30E7B3A6_3FD8_186E_41CD_BA5082AB6D08.label = Shankar Memorial National Cartoon Museum & Art Gallery-Kayamkulam
+panorama_30E7E123_3FD8_1866_41C5_9B687E05FB5F.label = Shankar Memorial National Cartoon Museum & Art Gallery-Kayamkulam
+panorama_30E7E460_3FD9_F8E2_41C8_2A055FA1F734.label = Shankar Memorial National Cartoon Museum & Art Gallery-Kayamkulam
+panorama_30E7FA98_3FD8_2822_4182_2630622EF649.label = Shankar Memorial National Cartoon Museum & Art Gallery-Kayamkulam
+panorama_35BA4BD6_3FD8_682E_41B8_0B711E8D2625.label = Shankar Memorial National Cartoon Museum & Art Gallery-Kayamkulam
+panorama_36A2B97D_3FD8_28E2_41CA_6F6F9F552BE6.label = Shankar Memorial National Cartoon Museum & Art Gallery-Kayamkulam
+panorama_36A5478E_3FD8_183E_41B5_C142E8D7F00E.label = Shankar Memorial National Cartoon Museum & Art Gallery-Kayamkulam
+panorama_36A55B0A_3FD8_2826_41CA_9472C4DFCBA2.label = Shankar Memorial National Cartoon Museum & Art Gallery-Kayamkulam
+panorama_36A6BD1C_3FD8_6822_4190_08E502AB2E42.label = Shankar Memorial National Cartoon Museum & Art Gallery-Kayamkulam
+panorama_4F19C082_4028_1826_41CD_E2556156B859.label = Shankar Memorial National Cartoon Museum & Art Gallery-Kayamkulam
+panorama_4F19F686_4028_182E_41CF_913093F4379F.label = Shankar Memorial National Cartoon Museum & Art Gallery-Kayamkulam
+panorama_4F1A1D85_4028_6822_41CC_43EA142F6C46.label = Shankar Memorial National Cartoon Museum & Art Gallery-Kayamkulam
+panorama_5909A75D_40E8_7822_41CA_482A87E8C753.label = Shankar Memorial National Cartoon Museum & Art Gallery-Kayamkulam
+panorama_590E86FB_40E8_19E6_41A4_88F00A808A06.label = Shankar Memorial National Cartoon Museum & Art Gallery-Kayamkulam
+panorama_5A0D370F_40E8_183E_41B7_A6BF835CBF40.label = Shankar Memorial National Cartoon Museum & Art Gallery-Kayamkulam
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_312B24CD_3FE8_3822_41B3_28162A8AD90C.toolTip = Shankers international Childerens Painting Competion - Selected works.
+HotspotPanoramaOverlayArea_5AB5088E_4038_283E_4199_495C13898FF8.toolTip = Lalithakala Akademi Art Gallery
